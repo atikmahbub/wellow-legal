@@ -33,6 +33,7 @@ If you allow location access, Wellow uses your **approximate** location to show 
 
 - Your coordinates are rounded on your phone to about 1 km before they are sent, so your exact location never leaves the device.
 - The rounded location is sent to our server, which fetches conditions from [Open-Meteo](https://open-meteo.com/en/terms). Results are kept briefly in memory per area so we don't have to fetch them again, and they are not linked to you or stored in a database.
+- To show your area's name (for example "Mirpur, Dhaka"), the app asks your phone's built-in location service to look up the same rounded location: Apple on iPhone, Google on Android. The name is shown in the app and isn't sent to us.
 - When you save a check-in, the conditions at that time (temperature, humidity, air quality) are saved with it **on your device**.
 
 You can turn off location access at any time in your phone's settings. Everything else keeps working.
