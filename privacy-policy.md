@@ -77,7 +77,7 @@ Check-ins can include information about how you feel physically, such as chest t
 - It stays on your device unless you turn on backup.
 - It is never used for advertising and never sold.
 
-Wellow shows patterns, not diagnoses. **It is not a medical device and does not provide medical advice.** The doctor report PDF is created on your phone, and is only shared if you choose to share it yourself. If you have symptoms that worry you, contact a doctor or your local emergency number.
+Wellow shows patterns, not diagnoses. **It is not a medical device and does not provide medical advice.** The wellness summary PDF is created on your phone, and is only shared if you choose to share it yourself. If you have symptoms that worry you, contact a doctor or your local emergency number.
 
 ## 5. Notifications
 
