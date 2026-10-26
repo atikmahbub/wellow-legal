@@ -18,7 +18,7 @@ Wellow ("the app", "we", "us") is a habit and wellbeing tracker. This policy exp
 By default, everything you enter stays in a database on your phone:
 
 - Habits you create, their schedules, reminders and completion history
-- Check-ins: mood, symptoms (for example chest tightness), how strong they were, possible triggers and any notes you write
+- Check-ins: mood, energy level and any notes you write
 - Calm and breathing sessions
 - App settings, such as your name for greetings and your theme
 
@@ -49,7 +49,7 @@ To make sure only the app can use our server, and to prevent abuse with rate lim
 - **Why:** only to provide backup and sync.
 
 ### AI weekly summaries (optional, Wellow Pro, coming soon)
-*This section applies once AI summaries are available in the app.* If you ask for an AI summary of your week, the app sends **calculated statistics only**: completion percentage, habit names with streak lengths, the number of tight days, top triggers as percentages, the number of calm sessions, and average mood per day.
+*This section applies once AI summaries are available in the app.* If you ask for an AI summary of your week, the app sends **calculated statistics only**: completion percentage, habit names with streak lengths, the number of calm sessions, and average mood per day.
 
 - Your notes and individual check-ins are **not** sent.
 - These statistics are processed by an AI provider (OpenAI or Anthropic) to write the summary. Under their API terms, these providers do not use the data to train their models.
@@ -70,14 +70,14 @@ See the [Google Privacy Policy](https://policies.google.com/privacy) and [Revenu
 - We don't use third-party analytics or tracking SDKs.
 - We don't share your data with anyone except the service providers named above, and only for the purposes described above.
 
-## 4. Health information and medical disclaimer
+## 4. Your check-ins and disclaimer
 
-Check-ins can include information about how you feel physically, such as chest tightness or shortness of breath. We treat this as sensitive:
+Check-ins record your mood, energy and notes. We treat them as personal:
 
-- It stays on your device unless you turn on backup.
-- It is never used for advertising and never sold.
+- They stay on your device unless you turn on backup.
+- They are never used for advertising and never sold.
 
-Wellow shows patterns, not diagnoses. **It is not a medical device and does not provide medical advice.** The wellness summary PDF is created on your phone, and is only shared if you choose to share it yourself. If you have symptoms that worry you, contact a doctor or your local emergency number.
+Wellow is a habit and wellbeing app for relaxation and self-reflection. **It is not a medical device and does not provide medical advice.** The PDF summary is created on your phone, and is only shared if you choose to share it yourself.
 
 ## 5. Notifications
 
